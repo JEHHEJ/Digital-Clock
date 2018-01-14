@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.9.29)  14 JAN 2018 14:14
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.1.1)  14 JAN 2018 23:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -988,12 +988,23 @@ File: xunicode-extra.def 2017/05/15 v3.4.8 extra definition for xunicode
 .................................................
  (/usr/local/texlive/2017/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
 File: xeCJK.cfg 2017/05/15 v3.4.8 Configuration file for xeCJK package
-)) (./defs.tex (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks19
-\pgfutil@tempdima=\dimen166
-\pgfutil@tempdimb=\dimen167
+)) (/usr/local/texlive/2017/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box50
+\UL@hyphenbox=\box51
+\UL@skip=\skip122
+\UL@hook=\toks19
+\UL@height=\dimen166
+\UL@pe=\count152
+\UL@pixel=\dimen167
+\ULC@box=\box52
+Package: ulem 2012/05/18
+\ULdepth=\dimen168
+) (./defs.tex (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks20
+\pgfutil@tempdima=\dimen169
+\pgfutil@tempdimb=\dimen170
  (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box50
+\pgfutil@abb=\box53
  (/usr/local/texlive/2017/texmf-dist/tex/latex/ms/everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 )) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
@@ -1003,28 +1014,28 @@ Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
  (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
  (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks20
-\pgfkeys@temptoks=\toks21
+\pgfkeys@pathtoks=\toks21
+\pgfkeys@temptoks=\toks22
  (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
-\pgfkeys@tmptoks=\toks22
+\pgfkeys@tmptoks=\toks23
 ))
-\pgf@x=\dimen168
-\pgf@y=\dimen169
-\pgf@xa=\dimen170
-\pgf@ya=\dimen171
-\pgf@xb=\dimen172
-\pgf@yb=\dimen173
-\pgf@xc=\dimen174
-\pgf@yc=\dimen175
+\pgf@x=\dimen171
+\pgf@y=\dimen172
+\pgf@xa=\dimen173
+\pgf@ya=\dimen174
+\pgf@xb=\dimen175
+\pgf@yb=\dimen176
+\pgf@xc=\dimen177
+\pgf@yc=\dimen178
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count152
-\c@pgf@countb=\count153
-\c@pgf@countc=\count154
-\c@pgf@countd=\count155
-\t@pgf@toka=\toks23
-\t@pgf@tokb=\toks24
-\t@pgf@tokc=\toks25
+\c@pgf@counta=\count153
+\c@pgf@countb=\count154
+\c@pgf@countc=\count155
+\c@pgf@countd=\count156
+\t@pgf@toka=\toks24
+\t@pgf@tokb=\toks25
+\t@pgf@tokc=\toks26
  (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
@@ -1036,63 +1047,63 @@ File: pgfsys-dvipdfmx.def 2014/07/09  (rcs-revision 1.14)
  (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 )
-\pgfsys@objnum=\count156
+\pgfsys@objnum=\count157
 ))) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count157
-\pgfsyssoftpath@bigbuffer@items=\count158
+\pgfsyssoftpath@smallbuffer@items=\count158
+\pgfsyssoftpath@bigbuffer@items=\count159
 ) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
 )) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
  (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen176
-\pgfmath@count=\count159
-\pgfmath@box=\box51
-\pgfmath@toks=\toks26
-\pgfmath@stack@operand=\toks27
-\pgfmath@stack@operation=\toks28
+\pgfmath@dimen=\dimen179
+\pgfmath@count=\count160
+\pgfmath@box=\box54
+\pgfmath@toks=\toks27
+\pgfmath@stack@operand=\toks28
+\pgfmath@stack@operation=\toks29
 ) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count160
+\c@pgfmathroundto@lastzeros=\count161
 )) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
-\pgf@picminx=\dimen177
-\pgf@picmaxx=\dimen178
-\pgf@picminy=\dimen179
-\pgf@picmaxy=\dimen180
-\pgf@pathminx=\dimen181
-\pgf@pathmaxx=\dimen182
-\pgf@pathminy=\dimen183
-\pgf@pathmaxy=\dimen184
-\pgf@xx=\dimen185
-\pgf@xy=\dimen186
-\pgf@yx=\dimen187
-\pgf@yy=\dimen188
-\pgf@zx=\dimen189
-\pgf@zy=\dimen190
+\pgf@picminx=\dimen180
+\pgf@picmaxx=\dimen181
+\pgf@picminy=\dimen182
+\pgf@picmaxy=\dimen183
+\pgf@pathminx=\dimen184
+\pgf@pathmaxx=\dimen185
+\pgf@pathminy=\dimen186
+\pgf@pathmaxy=\dimen187
+\pgf@xx=\dimen188
+\pgf@xy=\dimen189
+\pgf@yx=\dimen190
+\pgf@yy=\dimen191
+\pgf@zx=\dimen192
+\pgf@zy=\dimen193
 ) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
-\pgf@path@lastx=\dimen191
-\pgf@path@lasty=\dimen192
+\pgf@path@lastx=\dimen194
+\pgf@path@lasty=\dimen195
 ) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
-\pgf@shorten@end@additional=\dimen193
-\pgf@shorten@start@additional=\dimen194
+\pgf@shorten@end@additional=\dimen196
+\pgf@shorten@start@additional=\dimen197
 ) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
-\pgfpic=\box52
-\pgf@hbox=\box53
-\pgf@layerbox@main=\box54
-\pgf@picture@serial@count=\count161
+\pgfpic=\box55
+\pgf@hbox=\box56
+\pgf@layerbox@main=\box57
+\pgf@picture@serial@count=\count162
 ) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
-\pgflinewidth=\dimen195
+\pgflinewidth=\dimen198
 ) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
-\pgf@pt@x=\dimen196
-\pgf@pt@y=\dimen197
-\pgf@pt@temp=\dimen198
+\pgf@pt@x=\dimen199
+\pgf@pt@y=\dimen256
+\pgf@pt@temp=\dimen257
 ) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
 ) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
@@ -1101,17 +1112,17 @@ File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
 File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
 ) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
-\pgfarrowsep=\dimen199
+\pgfarrowsep=\dimen258
 ) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
-\pgf@max=\dimen256
-\pgf@sys@shading@range@num=\count162
+\pgf@max=\dimen259
+\pgf@sys@shading@range@num=\count163
 )
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
  (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
-\pgfexternal@startupbox=\box55
+\pgfexternal@startupbox=\box58
 )) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
 ) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
@@ -1120,85 +1131,85 @@ File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
 File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
 ))) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
-\pgfnodeparttextbox=\box56
+\pgfnodeparttextbox=\box59
 ) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen257
-\pgf@nodesepend=\dimen258
+\pgf@nodesepstart=\dimen260
+\pgf@nodesepend=\dimen261
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
 )) (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
  (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen259
-\pgffor@skip=\dimen260
-\pgffor@stack=\toks29
-\pgffor@toks=\toks30
+\pgffor@iter=\dimen262
+\pgffor@skip=\dimen263
+\pgffor@stack=\toks30
+\pgffor@toks=\toks31
 )) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
  (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
-\pgf@plot@mark@count=\count163
-\pgfplotmarksize=\dimen261
+\pgf@plot@mark@count=\count164
+\pgfplotmarksize=\dimen264
 )
-\tikz@lastx=\dimen262
-\tikz@lasty=\dimen263
-\tikz@lastxsaved=\dimen264
-\tikz@lastysaved=\dimen265
-\tikzleveldistance=\dimen266
-\tikzsiblingdistance=\dimen267
-\tikz@figbox=\box57
-\tikz@figbox@bg=\box58
-\tikz@tempbox=\box59
-\tikz@tempbox@bg=\box60
-\tikztreelevel=\count164
-\tikznumberofchildren=\count165
-\tikznumberofcurrentchild=\count166
-\tikz@fig@count=\count167
+\tikz@lastx=\dimen265
+\tikz@lasty=\dimen266
+\tikz@lastxsaved=\dimen267
+\tikz@lastysaved=\dimen268
+\tikzleveldistance=\dimen269
+\tikzsiblingdistance=\dimen270
+\tikz@figbox=\box60
+\tikz@figbox@bg=\box61
+\tikz@tempbox=\box62
+\tikz@tempbox@bg=\box63
+\tikztreelevel=\count165
+\tikznumberofchildren=\count166
+\tikznumberofcurrentchild=\count167
+\tikz@fig@count=\count168
  (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count168
-\pgfmatrixcurrentcolumn=\count169
-\pgf@matrix@numberofcolumns=\count170
+\pgfmatrixcurrentrow=\count169
+\pgfmatrixcurrentcolumn=\count170
+\pgf@matrix@numberofcolumns=\count171
 )
-\tikz@expandcount=\count171
+\tikz@expandcount=\count172
  (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
 ))) (/usr/local/texlive/2017/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count172
-\calc@Bcount=\count173
-\calc@Adimen=\dimen268
-\calc@Bdimen=\dimen269
-\calc@Askip=\skip122
-\calc@Bskip=\skip123
+\calc@Acount=\count173
+\calc@Bcount=\count174
+\calc@Adimen=\dimen271
+\calc@Bdimen=\dimen272
+\calc@Askip=\skip123
+\calc@Bskip=\skip124
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count174
-\calc@Cskip=\skip124
+\calc@Ccount=\count175
+\calc@Cskip=\skip125
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2016/04/27 v1.618033 publication quality tables
-\heavyrulewidth=\dimen270
-\lightrulewidth=\dimen271
-\cmidrulewidth=\dimen272
-\belowrulesep=\dimen273
-\belowbottomsep=\dimen274
-\aboverulesep=\dimen275
-\abovetopsep=\dimen276
-\cmidrulesep=\dimen277
-\cmidrulekern=\dimen278
-\defaultaddspace=\dimen279
-\@cmidla=\count175
-\@cmidlb=\count176
-\@aboverulesep=\dimen280
-\@belowrulesep=\dimen281
-\@thisruleclass=\count177
-\@lastruleclass=\count178
-\@thisrulewidth=\dimen282
+\heavyrulewidth=\dimen273
+\lightrulewidth=\dimen274
+\cmidrulewidth=\dimen275
+\belowrulesep=\dimen276
+\belowbottomsep=\dimen277
+\aboverulesep=\dimen278
+\abovetopsep=\dimen279
+\cmidrulesep=\dimen280
+\cmidrulekern=\dimen281
+\defaultaddspace=\dimen282
+\@cmidla=\count176
+\@cmidlb=\count177
+\@aboverulesep=\dimen283
+\@belowrulesep=\dimen284
+\@thisruleclass=\count178
+\@lastruleclass=\count179
+\@thisrulewidth=\dimen285
 )
-\g__fontspec_family_Lato-Regular.ttf_int=\count179
+\g__fontspec_family_Lato-Regular.ttf_int=\count180
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1222,7 +1233,7 @@ Package: booktabs 2016/04/27 v1.618033 publication quality tables
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 .................................................
 LaTeX Info: Redefining \rmfamily on input line 21.
-\g__fontspec_family_Lato-Black.ttf_int=\count180
+\g__fontspec_family_Lato-Black.ttf_int=\count181
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1246,100 +1257,100 @@ Package ifvtex Info: VTeX not detected.
 ) (/usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count181
-\Gm@cntv=\count182
-\c@Gm@tempcnt=\count183
-\Gm@bindingoffset=\dimen283
-\Gm@wd@mp=\dimen284
-\Gm@odd@mp=\dimen285
-\Gm@even@mp=\dimen286
-\Gm@layoutwidth=\dimen287
-\Gm@layoutheight=\dimen288
-\Gm@layouthoffset=\dimen289
-\Gm@layoutvoffset=\dimen290
-\Gm@dimlist=\toks31
+\Gm@cnth=\count182
+\Gm@cntv=\count183
+\c@Gm@tempcnt=\count184
+\Gm@bindingoffset=\dimen286
+\Gm@wd@mp=\dimen287
+\Gm@odd@mp=\dimen288
+\Gm@even@mp=\dimen289
+\Gm@layoutwidth=\dimen290
+\Gm@layoutheight=\dimen291
+\Gm@layouthoffset=\dimen292
+\Gm@layoutvoffset=\dimen293
+\Gm@dimlist=\toks32
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
  (/usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
-\captionmargin=\dimen291
-\captionmargin@=\dimen292
-\captionwidth=\dimen293
-\caption@tempdima=\dimen294
-\caption@indent=\dimen295
-\caption@parindent=\dimen296
-\caption@hangindent=\dimen297
+\captionmargin=\dimen294
+\captionmargin@=\dimen295
+\captionwidth=\dimen296
+\caption@tempdima=\dimen297
+\caption@indent=\dimen298
+\caption@parindent=\dimen299
+\caption@hangindent=\dimen300
 )
-\c@ContinuedFloat=\count184
+\c@ContinuedFloat=\count185
 )
 Package caption Info: We need package `newfloat' on input line 34.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/caption/newfloat.sty
 Package: newfloat 2015/09/17 v1.1-109 Defining new floating environments (AR)
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
-\ttl@box=\box61
-\beforetitleunit=\skip125
-\aftertitleunit=\skip126
-\ttl@plus=\dimen298
-\ttl@minus=\dimen299
-\ttl@toksa=\toks32
-\titlewidth=\dimen300
-\titlewidthlast=\dimen301
-\titlewidthfirst=\dimen302
+\ttl@box=\box64
+\beforetitleunit=\skip126
+\aftertitleunit=\skip127
+\ttl@plus=\dimen301
+\ttl@minus=\dimen302
+\ttl@toksa=\toks33
+\titlewidth=\dimen303
+\titlewidthlast=\dimen304
+\titlewidthfirst=\dimen305
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
-\fancy@headwidth=\skip127
-\f@ncyO@elh=\skip128
-\f@ncyO@erh=\skip129
-\f@ncyO@olh=\skip130
-\f@ncyO@orh=\skip131
-\f@ncyO@elf=\skip132
-\f@ncyO@erf=\skip133
-\f@ncyO@olf=\skip134
-\f@ncyO@orf=\skip135
+\fancy@headwidth=\skip128
+\f@ncyO@elh=\skip129
+\f@ncyO@erh=\skip130
+\f@ncyO@olh=\skip131
+\f@ncyO@orh=\skip132
+\f@ncyO@elf=\skip133
+\f@ncyO@erf=\skip134
+\f@ncyO@olf=\skip135
+\f@ncyO@orf=\skip136
 )
-\myheight=\skip136
+\myheight=\skip137
  (/usr/local/texlive/2017/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
 Package: tcolorbox 2017/04/25 version 4.03 text color boxes
  (/usr/local/texlive/2017/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks33
-\verbatim@line=\toks34
+\every@verbatim=\toks34
+\verbatim@line=\toks35
 \verbatim@in@stream=\read3
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/environ/environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
  (/usr/local/texlive/2017/texmf-dist/tex/latex/trimspaces/trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 )
-\@envbody=\toks35
+\@envbody=\toks36
 )
-\tcb@titlebox=\box62
-\tcb@upperbox=\box63
-\tcb@lowerbox=\box64
-\tcb@phantombox=\box65
-\c@tcbbreakpart=\count185
-\c@tcblayer=\count186
-\tcolorbox@number=\count187
-\tcb@temp=\box66
-\tcb@temp=\box67
-\tcb@temp=\box68
+\tcb@titlebox=\box65
+\tcb@upperbox=\box66
+\tcb@lowerbox=\box67
+\tcb@phantombox=\box68
+\c@tcbbreakpart=\count186
+\c@tcblayer=\count187
+\tcolorbox@number=\count188
 \tcb@temp=\box69
+\tcb@temp=\box70
+\tcb@temp=\box71
+\tcb@temp=\box72
 \tcb@out=\write4
 \tcb@record@out=\write5
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-\wrapoverhang=\dimen303
-\WF@size=\dimen304
-\c@WF@wrappedlines=\count188
-\WF@box=\box70
-\WF@everypar=\toks36
+\wrapoverhang=\dimen306
+\WF@size=\dimen307
+\c@WF@wrappedlines=\count189
+\WF@box=\box73
+\WF@everypar=\toks37
 Package: wrapfig 2003/01/31  v 3.6
 )
-\c@frames=\count189
+\c@frames=\count190
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/lipsum/lipsum.sty
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
-\c@lips@count=\count190
+\c@lips@count=\count191
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/mathpazo.sty
 Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
 \symupright=\mathgroup4
@@ -1351,7 +1362,7 @@ File: pgflibraryshapes.geometric.code.tex 2008/06/26 v3.0.1a (rcs-revision 1.1)
 File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
  (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
 File: pgflibraryarrows.code.tex 2013/09/23 v3.0.1a (rcs-revision 1.16)
-\arrowsize=\dimen305
+\arrowsize=\dimen308
 )) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
 File: tikzlibrarycalc.code.tex 2013/07/15 v3.0.1a (rcs-revision 1.9)
 )
@@ -1366,7 +1377,7 @@ File: tikzlibrarycalc.code.tex 2013/07/15 v3.0.1a (rcs-revision 1.9)
 * 
 * Font 'FandolSong-Regular' does not contain script 'CJK'.
 *************************************************
-\g__fontspec_family_FandolSong-Regular_int=\count191
+\g__fontspec_family_FandolSong-Regular_int=\count192
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1386,37 +1397,109 @@ File: tikzlibrarycalc.code.tex 2013/07/15 v3.0.1a (rcs-revision 1.9)
 . <->"[FandolKai-Regular.otf]/OT:mapping=tex-text;"
 . - 'italic small caps'  (m/itsc) with NFSS spec.: 
 .................................................
-(/Users/Jackie/Documents/GitHub/Digital-Clock/Final Report/.texpadtmp/Final Report.aux)
+(/usr/local/texlive/2017/texmf-dist/tex/xelatex/xecjk/xeCJKfntef.sty
+Package: xeCJKfntef 2017/05/15 v3.4.8 xeCJK font effect
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/cjk/texinput/CJKfntef.sty
+Package: CJKfntef 2015/04/18 4.8.4
+\CJK@fntefSkip=\skip138
+\CJK@nest=\count193
+\CJK@fntefDimen=\dimen309
+\CJK@underdotBox=\box74
+\CJK@ULbox=\box75
+\CJK@underanyskip=\dimen310
+)
+\l__xeCJK_space_skip=\skip139
+\c__xeCJK_ulem-begin_node_dim=\dimen311
+\c__xeCJK_null_box=\box76
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKfntefon with sig. 'st-so' on line 614.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \CJKunderline with sig. 'st-so' on line 630.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \varCJKunderline with sig. '' on line 632.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \CJKunderwave with sig. 'st-so' on line 642.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \CJKunderdblline with sig. 'st-so' on line 666.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \CJKsout with sig. 'st-so' on line 685.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \CJKxout with sig. 'st-so' on line 702.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \CJKunderanyline with sig. 'st-somm' on line 723.
+.................................................
+\l__xeCJK_fntef_box=\box77
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \CJKunderanysymbol with sig. 'ommm' on line 903.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \CJKunderdot with sig. 'om' on line 912.
+.................................................
+\l__xeCJK_under_symbol_box=\box78
+.................................................
+. LaTeX info: "xparse/redefine-environment"
+. 
+. Redefining environment 'CJKfilltwosides' with sig. 'O{c}m' on line 1016.
+.................................................
+\c__xeCJK_filll_skip=\skip140
+) (/Users/jackie/Documents/Digital-Clock/FINAL-REP/.texpadtmp/Final Report.aux)
 \openout1 = `"Final Report.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 26.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 27.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 27.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Try loading font information for TU+ppl on input line 26.
-LaTeX Font Info:    No file TUppl.fd. on input line 26.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Try loading font information for TU+ppl on input line 27.
+LaTeX Font Info:    No file TUppl.fd. on input line 27.
 
 
 LaTeX Font Warning: Font shape `TU/ppl/m/n' undefined
-(Font)              using `TU/lmr/m/n' instead on input line 26.
+(Font)              using `TU/lmr/m/n' instead on input line 27.
 
-\AtBeginShipoutBox=\box71
+\AtBeginShipoutBox=\box79
 *** you should *not* be loading the inputenc package
 *** XeTeX expects the source to be in UTF8 encoding
 *** some features of other encodings may conflict, resulting in poor output.
@@ -1458,16 +1541,16 @@ ABD: EveryShipout initializing macros
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\big@size=\dimen306
+\big@size=\dimen312
 
 LaTeX Font Warning: Font shape `TU/Lato-Black.ttf(0)/bx/n' undefined
-(Font)              using `TU/Lato-Black.ttf(0)/m/n' instead on input line 27.
+(Font)              using `TU/Lato-Black.ttf(0)/m/n' instead on input line 28.
 
 File: opening.jpg Graphic file (type QTm)
 <use  "opening.jpg" >
 
 LaTeX Font Warning: Font shape `TU/ppl/bx/n' undefined
-(Font)              using `TU/ppl/m/n' instead on input line 27.
+(Font)              using `TU/ppl/m/n' instead on input line 28.
 
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -1478,24 +1561,24 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
 File: logo.png Graphic file (type QTm)
 <use  "logo.png" > [1
 
-] (/Users/Jackie/Documents/GitHub/Digital-Clock/Final Report/.texpadtmp/Final Report.toc
-LaTeX Font Info:    Try loading font information for OT1+ppl on input line 6.
+] (/Users/jackie/Documents/Digital-Clock/FINAL-REP/.texpadtmp/Final Report.toc
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 4.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 6.
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 4.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 6.
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 4.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 6.
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 4.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 6.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 4.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 ))
@@ -1515,6 +1598,8 @@ File: logo.png Graphic file (type QTm)
 ]
 File: workflow.png Graphic file (type QTm)
  <use  "workflow.png" >
+File: JK.png Graphic file (type QTm)
+ <use  "JK.png" >
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
@@ -1525,18 +1610,54 @@ File: logo.png Graphic file (type QTm)
 <use  "logo.png" > [3
 
 ]
-Overfull \hbox (10.35391pt too wide) in paragraph at lines 126--133
+File: 555.png Graphic file (type QTm)
+ <use  "555.png" >
+Overfull \hbox (13.78381pt too wide) in paragraph at lines 66--69
+[] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: logo.png Graphic file (type QTm)
+<use  "logo.png" > [4]
+Underfull \hbox (badness 10000) in paragraph at lines 71--73
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: logo.png Graphic file (type QTm)
+<use  "logo.png" > [5]
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: logo.png Graphic file (type QTm)
+<use  "logo.png" > [6
+
+]
+Overfull \hbox (10.35391pt too wide) in paragraph at lines 163--170
 []
  []
 
-[4
+[7
 
 ]
 File: Input.png Graphic file (type QTm)
  <use  "Input.png" >
 File: Basic.png Graphic file (type QTm)
  <use  "Basic.png" >
-Overfull \hbox (53.10356pt too wide) in paragraph at lines 140--141
+Overfull \hbox (53.10356pt too wide) in paragraph at lines 177--178
 [] 
  []
 
@@ -1551,12 +1672,12 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 File: logo.png Graphic file (type QTm)
-<use  "logo.png" > [5
+<use  "logo.png" > [8
 
 ]
 File: Alarm.png Graphic file (type QTm)
  <use  "Alarm.png" >
-Overfull \hbox (31.40552pt too wide) in paragraph at lines 153--154
+Overfull \hbox (31.40552pt too wide) in paragraph at lines 190--191
 [] 
  []
 
@@ -1567,11 +1688,27 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 File: logo.png Graphic file (type QTm)
-<use  "logo.png" > [6]
+<use  "logo.png" > [9]
 File: Simulation.png Graphic file (type QTm)
  <use  "Simulation.png" >
-Overfull \hbox (49.54709pt too wide) in paragraph at lines 158--159
+Overfull \hbox (49.54709pt too wide) in paragraph at lines 195--196
 [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--196
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+
+ []
+
+File: Achievement.png Graphic file (type QTm)
+<use  "Achievement.png" >
+Underfull \hbox (badness 10000) in paragraph at lines 202--204
+
  []
 
 
@@ -1581,20 +1718,74 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 File: logo.png Graphic file (type QTm)
-<use  "logo.png" > [7
+<use  "logo.png" > [10
 
-] (/Users/Jackie/Documents/GitHub/Digital-Clock/Final Report/.texpadtmp/Final Report.aux)
+]
+File: Final.png Graphic file (type QTm)
+ <use  "Final.png" >
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: logo.png Graphic file (type QTm)
+<use  "logo.png" > [11]
+File: poster.png Graphic file (type QTm)
+ <use  "poster.png" >
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: logo.png Graphic file (type QTm)
+<use  "logo.png" > [12
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 225--231
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: logo.png Graphic file (type QTm)
+<use  "logo.png" > [13]
+Underfull \hbox (badness 10000) in paragraph at lines 232--236
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: logo.png Graphic file (type QTm)
+<use  "logo.png" > [14]
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: logo.png Graphic file (type QTm)
+<use  "logo.png" > [15] (/Users/jackie/Documents/Digital-Clock/FINAL-REP/.texpadtmp/Final Report.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 33858 strings out of 493005
- 699285 string characters out of 6134596
- 837278 words of memory out of 5000000
- 37381 multiletter control sequences out of 15000+600000
- 12469 words of font info for 50 fonts, out of 8000000 for 9000
+ 34386 strings out of 493005
+ 713335 string characters out of 6134597
+ 855985 words of memory out of 5000000
+ 37890 multiletter control sequences out of 15000+600000
+ 12583 words of font info for 52 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  57i,15n,73p,10421b,641s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on /Users/Jackie/Documents/GitHub/Digital-Clock/Final Report/.texpadtmp/Final Report.pdf (7 pages).
+Output written on /Users/jackie/Documents/Digital-Clock/FINAL-REP/.texpadtmp/Final Report.pdf (15 pages).

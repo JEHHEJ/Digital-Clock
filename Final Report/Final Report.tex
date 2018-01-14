@@ -5,7 +5,8 @@
 \usepackage{xcolor}
 \usepackage[linewidth=1pt]{mdframed}
 \usepackage{xeCJK}
-
+\usepackage{ulem}
+\usepackage{color}
 \input{defs}
 
 \usepackage{lipsum}
@@ -17,9 +18,9 @@
 
 
 \title{Digital Clock - JEHHEJ}
-\author{JEHHEJ\\ Huangyq /Hongry }
+\author{JEHHEJ\\ Yiqing Huang / Ruyue Hong }
 \date{\today}
-\summary{ A LED digital clock
+\summary{This may be the best digital clock in the whole universe.
 }
 
 
@@ -30,9 +31,46 @@
 \clearpage
 
 \section{Introduction}
-
-\section{Workflow}
+	The basic task of the project of LED
+Digital Clock is to use DC power to 
+finally make a clock. And we add two
+additional functions—alarm and day 
+display—into our circuit. The highlight 
+among all these functions is that we use
+logic gate to build a unique encoder 
+ourself for 7 LED indicating days form 
+Monday to Sunday.
+\section{Flow Chart}
 \includegraphics[scale=0.75]{workflow}
+
+
+\section{Circuit Principle}
+What we have learnt from Electric 
+Circuits Lab is the usage of 555 Timer 
+and some simple logic calculation. 
+However, we are not familiar with Flip-
+Flop and Seven Segment Display and its 
+encoder—74LS48. Through the help of our 
+TA especially his sending a material of 
+the principle of Flip-Flop and some 
+materials on the Internet, we simulate 
+and build our circuit successfully. Here 
+are some principle of the basic 
+components applied into our circuit.
+\subsection{JK Flip-Flop}
+\includegraphics[scale=0.7]{JK.png}\\
+Source: Digital Fundamental Chapter 
+Flip-Flops
+
+\subsection{555 Timer}
+\includegraphics[scale=0.7]{555.png}\\
+Source: UC Berkeley, EECS100 Lab, Fall 
+2009.
+
+\subsection{PMOS}
+When the voltage of input A is high, the PMOS transistor is in an OFF (high resistance) state so it would limit the current flowing from the positive supply to the output, while the NMOS transistor is in an ON (low resistance) state, allowing the output from drain to ground. Because the resistance between Q and ground is low, the voltage drop due to a current drawn into Q placing Q above ground is small. This low drop results in the output registering a low voltage.\\
+Source: https://en.wikipedia.org/wiki/CMOS\\
+\clearpage
 
 \section{Components}
 \begin{table}[!h]
@@ -60,13 +98,12 @@ OR Gate  & 7432N & 5  \\
 Piezo Buzzer & & 1  \\
 CMOS & IRF510 & 4  \\
 LED & White & 10  \\
-
 \bottomrule
 \end{tabular}
 \end{table}
 
 \clearpage
-\section{Circuit Principle}
+
 
 \section{Block Schematic}
 
@@ -155,5 +192,58 @@ Using 7 Led Lights to indicate From Mon. to Sun.
 \clearpage
 
 \section{Schematic Diagram}
-\includegraphics[scale=0.18]{Simulation.png}
-\end{document}          
+\includegraphics[scale=0.18]{Simulation.png}\\
+
+\section{Achievement}   
+Lapping circuit was not so successful to be honest. We have achieved most of our functions last Saturday, but because we bound the maximum current inappropriately, the first model was destroyed. \\
+\begin{center}
+\fbox{\includegraphics[scale=1]{Achievement.png}}
+\end{center}
+It taught us a lesson that making the circuit readable and using some indicator to suggest us when something goes wrong immediately. \\
+Here is our final achievements.\\
+\begin{center}
+\fbox{\includegraphics[scale=0.85]{Final.png}}
+\end{center}
+\clearpage
+
+\begin{enumerate}
+	\item Clock: We use Flip-Flop (74LS112) to count square waves generated from 555 Timer. And some logic gates (NAND—74LS00, NOT—74LS04, OR—74LS32) are applied to carry bit. Seven-Segment Display and its matched encoder (74LS48) are the indicator to show the time (the result).
+	\item Square Wave: We use 555 timer and some resistors and capacitors to generate square waves.
+	\item Time Adjustment Part: When turning on the set button, \uline{the two numbers which show the second of the clock will be reset to zero} . At the beginning, we supposed to use PMOS to generate square waves on our own to adjust time, but failed. So we changed our mind and \uline {use the square waves generated from 555 timer part to adjust minute, hour and day part of the clock}.
+	\item Error Indicators: We \uline{set a LED on every bread board} and they will show us which part goes wrong as soon as an error occurred \uline{by turning off or twinkling}. It looks very simple, but it is actually convenient and efficient. It do have helped us find a destroyed Flip-flop and several careless mistakes in connecting circuits.
+	\item Days Indicator: We use 7 LEDs from left to right to represent for Monday to Sunday. To achieve this goal, unlike a Seven-Segment Display which has a matched encoder, \uline{we use logic gates which cost 3 bread boards to build an encoder on our own}. Of course, Flip-Flops are used to count the number.
+	\item Hour Alarm: When time goes from an hour to another, the beeper \uline{will beep for 10 seconds as we designed}. We use a Flip-Flop to receive a signal from hour carry bit, so when it comes to an new hour, the Q of the Flip-Flop will turn from LOW to HIGH and the beeper will keep beeping. Besides, the reset port is connected to the 10-second carry bit so that when 10 seconds after now time, Q will turn from HIGH to LOW, so the beeper will stop to beep.
+\end{enumerate}
+* 4, 5, 6 are our bonus parts.
+
+\section{Presentation and Poster}
+\includegraphics[scale=1]{poster.png}
+
+
+\section{Little Thoughts}
+\begin{enumerate}
+	\item Yiqing Huang\\
+We picked up this project because we truly love it. So we made efforts to it and run out of our comfort zone. We struggle till the last minute to finish as more functions as we can.\\
+To be honest, it is a pity that we lack time to reach our original goal to build a alarm. However, I am so glad that we can find a plan B and bring it into the actual circuit in a short time. \\
+Ruyue is my best partner. We work out our plan smoothly and we exchange our ideas as soon as they came out of our minds. We sometimes argued with each other for our own thoughts or solutions to solve a specific problem and it do result in our remarkably high efficiency. We know when to stop and have a short break and when to insist on. We inspired each other when we were gotten in a dilemma and then fight a way out. \\
+Maybe I will never make a second digital clock in the future but the experience in how to design a circuit, how to learn the usage of components in a fast way and most crucially how to fix unknown bugs in circuits must be rooted in my mind. And this is the essence of this course regardless of the result and the grade, which is extremely helpful. \\
+Last but not least, thanks for my TA Shuo Ni, and thanks for my best partner Ruyue.\\
+
+\item Ruyue Hong\\
+Looking back on the week that past by, everyday is filled with depression and sudden surprise. Before entering the lab first time, we are occupied with fancy imagination that except accomplishing the required electric circuit we can even build an awesome appearance to cover the circuit which makes it like a real clock in our daily life, thus replacing the old clock with the home-made one. This kind of imagination continued even after the period we build the circuit first time. However, too many seemingly unsolvable bugs destroy our dream. It is easy for us to transfer the simulating one to real electric circuit, however, everyday we spend a large amount of time to figure out the reason why it fails to function even if the Multism runs successfully. I picked up the project simply out of my adoration. We came to the lab everyday with full enthusiasm, but it damped my passion gradually over time. \\
+Those days are like the dark sky I saw every time I walked back to the dormitory with my partner. The little shining stars scattering above are like the final presentation which are shown to others. The darkness around the stars are just our normal days spent in the lab. Our depression , hundreds of time willing to give up combined with little success and sudden surprise are deeply hidden in the darkness which are only shown to us own. \\
+Fortunately, our effort are not in vain, we work things out in the end. During the process to the final point, we are so worried about whether our time and effort will just be a speck of dusk in the galaxy or become the stars lighting up our days. But now, I have to admit that it is not the stars but the darkness that actually form the sky. We have to be thankful to ourselves, it is us who choose to keep on walking even our enthusiasm fading over time. We have to be thankful to my dear partner, who choose to accompany me walking under the dark sky even if he is so tired, even if I am so impatient with him. The final design is different from the initial one. It combined with the fancy ideas of Xiaoqingqing and me, it is also the outcome of our hundreds time of argument... so many words are just on the tip of my tongue but hard to speak them out. Never mind; just let them hidden in the dark sky, hidden in the days we passed by, and buried in our own memory.\\
+
+
+\end{enumerate}
+
+\section{Reference}
+\begin{itemize}
+\item Digital Fundamental Chapter 7 Flip-Flops.
+\item UC Berkeley, EECS100 Lab, Fall 2009.
+\item https://en.wikipedia.org/wiki/CMOS.
+\end{itemize}
+\end{document}
+
+
+
