@@ -1,0 +1,886 @@
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xetex 2017.9.20)  14 JAN 2018 15:54
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**defs.tex
+(./defs.tex
+./defs.tex:3: Undefined control sequence.
+l.3 \usepackage
+               {tikz}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:4: Undefined control sequence.
+l.4 \usepackage
+               {calc}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:5: Undefined control sequence.
+l.5 \usepackage
+               {booktabs}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:9: Undefined control sequence.
+l.9 \definecolor
+                {color1}{HTML}{000060}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:11: Undefined control sequence.
+l.11 \definecolor
+                 {color2}{HTML}{333333}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:15: Undefined control sequence.
+l.15 \usepackage
+                {fontspec}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:16: Undefined control sequence.
+l.16 \defaultfontfeatures
+                         {Mapping=tex-text}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:17: Undefined control sequence.
+l.17 \setmainfont
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:22: Undefined control sequence.
+l.22 \newfontfamily
+                   \headingfont[ItalicFont=Lato-BlackItalic.ttf]{Lato-Black....
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:22: Undefined control sequence.
+l.22 \newfontfamily\headingfont
+                               [ItalicFont=Lato-BlackItalic.ttf]{Lato-Black....
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:25: Undefined control sequence.
+l.25 \usepackage
+                {geometry}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:26: Undefined control sequence.
+l.26 \geometry
+              {a4paper,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:30: Undefined control sequence.
+l.30 \linespread
+                {1.3}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:32: Undefined control sequence.
+l.32 \usepackage
+                [hang]{caption}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:33: Undefined control sequence.
+l.33 \DeclareCaptionFormat
+                          {upper}{#1#2\uppercase{#3}\par}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:33: You can't use `macro parameter character #' in horizontal mode.
+l.33 \DeclareCaptionFormat{upper}{#
+                                   1#2\uppercase{#3}\par}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./defs.tex:33: You can't use `macro parameter character #' in horizontal mode.
+l.33 \DeclareCaptionFormat{upper}{#1#
+                                     2\uppercase{#3}\par}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./defs.tex:33: You can't use `macro parameter character #' in horizontal mode.
+<to be read again> ##
+                     3
+l.33 ...areCaptionFormat{upper}{#1#2\uppercase{#3}
+                                                  \par}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./defs.tex:34: Undefined control sequence.
+l.34 \captionsetup
+                  {labelfont={bf,color=color2},textfont={normalsize,color=co...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (68.9268pt too wide) in paragraph at lines 34--35
+[]\tenrm labelfont=bf,color=color2,textfont=normalsize,color=color2,format = up-per,figurename=FIGURE,tablename=TABLE |
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm l
+.\tenrm a
+.\tenrm b
+.\kern0.27779
+.etc.
+
+./defs.tex:37: Undefined control sequence.
+l.37 \usepackage
+                {titlesec}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:39: Undefined control sequence.
+l.39 \titleformat
+                 {\section}{\color{color1}\headingfont\Large\bfseries\upperc...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:39: Undefined control sequence.
+l.39 \titleformat{\section
+                          }{\color{color1}\headingfont\Large\bfseries\upperc...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:39: Undefined control sequence.
+l.39 \titleformat{\section}{\color
+                                  {color1}\headingfont\Large\bfseries\upperc...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:39: Undefined control sequence.
+l.39 ...ormat{\section}{\color{color1}\headingfont
+                                                  \Large\bfseries\uppercase}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:39: Undefined control sequence.
+l.39 ...\section}{\color{color1}\headingfont\Large
+                                                  \bfseries\uppercase}{\thes...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:39: Undefined control sequence.
+l.39 ...{\color{color1}\headingfont\Large\bfseries
+                                                  \uppercase}{\thesection}{1...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:39: Missing { inserted.
+<to be read again> 
+                   }
+l.39 ...or1}\headingfont\Large\bfseries\uppercase}
+                                                  {\thesection}{1em}{}[\titl...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+./defs.tex:39: Undefined control sequence.
+l.39 ...font\Large\bfseries\uppercase}{\thesection
+                                                  }{1em}{}[\titlerule]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:39: Undefined control sequence.
+l.39 ...\uppercase}{\thesection}{1em}{}[\titlerule
+                                                  ]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:40: Undefined control sequence.
+l.40 \titleformat
+                 {\subsection}{\color{color1}\headingfont\large\bfseries\upp...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:40: Undefined control sequence.
+l.40 \titleformat{\subsection
+                             }{\color{color1}\headingfont\large\bfseries\upp...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:40: Undefined control sequence.
+l.40 \titleformat{\subsection}{\color
+                                     {color1}\headingfont\large\bfseries\upp...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:40: Undefined control sequence.
+l.40 ...at{\subsection}{\color{color1}\headingfont
+                                                  \large\bfseries\uppercase}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:40: Undefined control sequence.
+l.40 ...bsection}{\color{color1}\headingfont\large
+                                                  \bfseries\uppercase}{\thes...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:40: Undefined control sequence.
+l.40 ...{\color{color1}\headingfont\large\bfseries
+                                                  \uppercase}{\thesubsection...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:40: Missing { inserted.
+<to be read again> 
+                   }
+l.40 ...or1}\headingfont\large\bfseries\uppercase}
+                                                  {\thesubsection}{1em}{}
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+./defs.tex:40: Undefined control sequence.
+l.40 ...t\large\bfseries\uppercase}{\thesubsection
+                                                  }{1em}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:41: Undefined control sequence.
+l.41 \titleformat
+                 {\subsubsection}{\color{color1}\headingfont\bfseries\upperc...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:41: Undefined control sequence.
+l.41 \titleformat{\subsubsection
+                                }{\color{color1}\headingfont\bfseries\upperc...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:41: Undefined control sequence.
+l.41 \titleformat{\subsubsection}{\color
+                                        {color1}\headingfont\bfseries\upperc...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:41: Undefined control sequence.
+l.41 ...\subsubsection}{\color{color1}\headingfont
+                                                  \bfseries\uppercase}{\thes...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:41: Undefined control sequence.
+l.41 ...ction}{\color{color1}\headingfont\bfseries
+                                                  \uppercase}{\thesubsubsect...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:41: Missing { inserted.
+<to be read again> 
+                   }
+l.41 ...or{color1}\headingfont\bfseries\uppercase}
+                                                  {\thesubsubsection}{1em}{}
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+./defs.tex:41: Undefined control sequence.
+l.41 ...font\bfseries\uppercase}{\thesubsubsection
+                                                  }{1em}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:45: Undefined control sequence.
+l.45 \usepackage
+                {fancyhdr}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:46: Undefined control sequence.
+l.46 \pagestyle
+               {fancy}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:47: Undefined control sequence.
+l.47 \lhead
+           {}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:48: Undefined control sequence.
+l.48 \chead
+           {}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:49: Undefined control sequence.
+l.49 \makeatletter
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:50: Undefined control sequence.
+l.50 \rhead
+           {\color{color2}\@date}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:50: Undefined control sequence.
+l.50 \rhead{\color
+                  {color2}\@date}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:50: Undefined control sequence.
+l.50 \rhead{\color{color2}\@
+                            date}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:51: Undefined control sequence.
+l.51 \makeatother
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:52: Undefined control sequence.
+l.52 \newlength
+               {\myheight}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:52: Undefined control sequence.
+l.52 \newlength{\myheight
+                         }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:53: Undefined control sequence.
+l.53 \lfoot
+           {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:54: Undefined control sequence.
+l.54 \settoheight
+                 {\myheight}{\thepage}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:54: Undefined control sequence.
+l.54 \settoheight{\myheight
+                           }{\thepage}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:54: Undefined control sequence.
+l.54 \settoheight{\myheight}{\thepage
+                                     }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:55: Undefined control sequence.
+l.55 \raisebox
+              {-2ex-0.5\myheight}{\includegraphics[height=4ex]{logo}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:55: Undefined control sequence.
+l.55 \raisebox{-2ex-0.5\myheight
+                                }{\includegraphics[height=4ex]{logo}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:55: Undefined control sequence.
+l.55 \raisebox{-2ex-0.5\myheight}{\includegraphics
+                                                  [height=4ex]{logo}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:57: Undefined control sequence.
+l.57 \cfoot
+           {\color{color2}\LaTeX\ template for business reports}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:57: Undefined control sequence.
+l.57 \cfoot{\color
+                  {color2}\LaTeX\ template for business reports}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:57: Undefined control sequence.
+l.57 \cfoot{\color{color2}\LaTeX
+                                \ template for business reports}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:58: Undefined control sequence.
+l.58 \rfoot
+           {\color{color2}\thepage}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:58: Undefined control sequence.
+l.58 \rfoot{\color
+                  {color2}\thepage}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:58: Undefined control sequence.
+l.58 \rfoot{\color{color2}\thepage
+                                  }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:59: Undefined control sequence.
+l.59 \renewcommand
+                  \headrulewidth{0pt}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:59: Undefined control sequence.
+l.59 \renewcommand\headrulewidth
+                                {0pt}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:60: Undefined control sequence.
+l.60 \renewcommand
+                  \footrulewidth{0pt}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:60: Undefined control sequence.
+l.60 \renewcommand\footrulewidth
+                                {0pt}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:63: Undefined control sequence.
+l.63 \makeatletter
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:64: Undefined control sequence.
+l.64 \newcommand
+                *\DefVar[1]{\@namedef{#1}##1{\global\@namedef{get#1}{##1}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:64: Undefined control sequence.
+l.64 \newcommand*\DefVar
+                        [1]{\@namedef{#1}##1{\global\@namedef{get#1}{##1}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:64: Undefined control sequence.
+l.64 \newcommand*\DefVar[1]{\@
+                              namedef{#1}##1{\global\@namedef{get#1}{##1}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:64: You can't use `macro parameter character #' in horizontal mode.
+l.64 \newcommand*\DefVar[1]{\@namedef{#
+                                       1}##1{\global\@namedef{get#1}{##1}}}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./defs.tex:64: You can't use `macro parameter character #' in horizontal mode.
+l.64 \newcommand*\DefVar[1]{\@namedef{#1}#
+                                          #1{\global\@namedef{get#1}{##1}}}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./defs.tex:64: You can't use `macro parameter character #' in horizontal mode.
+l.64 \newcommand*\DefVar[1]{\@namedef{#1}##
+                                           1{\global\@namedef{get#1}{##1}}}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./defs.tex:64: Undefined control sequence.
+l.64 ...mand*\DefVar[1]{\@namedef{#1}##1{\global\@
+                                                  namedef{get#1}{##1}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:64: You can't use a prefix with `the letter n'.
+<to be read again> 
+                   n
+l.64 ...and*\DefVar[1]{\@namedef{#1}##1{\global\@n
+                                                  amedef{get#1}{##1}}}
+I'll pretend you didn't say \long or \outer or \global or \protected.
+
+./defs.tex:64: You can't use `macro parameter character #' in horizontal mode.
+l.64 ...[1]{\@namedef{#1}##1{\global\@namedef{get#
+                                                  1}{##1}}}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./defs.tex:64: You can't use `macro parameter character #' in horizontal mode.
+l.64 ...\@namedef{#1}##1{\global\@namedef{get#1}{#
+                                                  #1}}}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./defs.tex:64: You can't use `macro parameter character #' in horizontal mode.
+l.64 ...@namedef{#1}##1{\global\@namedef{get#1}{##
+                                                  1}}}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./defs.tex:65: Undefined control sequence.
+l.65 \DefVar
+            {summary}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:66: Undefined control sequence.
+l.66 \renewcommand
+                  {\maketitle}{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:66: Undefined control sequence.
+l.66 \renewcommand{\maketitle
+                             }{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:67: Undefined control sequence.
+l.67 \begin
+           {center}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:68: Undefined control sequence.
+l.68 \begin
+           {tikzpicture}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:69: Undefined control sequence.
+l.69     \node
+              [draw=none,%color1,line width=0.4pt,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:72: Undefined control sequence.
+l.72       text width=\textwidth
+                                -20pt,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:74: Undefined control sequence.
+l.74     ] {\color
+                  {white}\headingfont\bfseries\huge\@title};
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:74: Undefined control sequence.
+l.74     ] {\color{white}\headingfont
+                                     \bfseries\huge\@title};
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:74: Undefined control sequence.
+l.74     ] {\color{white}\headingfont\bfseries
+                                              \huge\@title};
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:74: Undefined control sequence.
+l.74 ...] {\color{white}\headingfont\bfseries\huge
+                                                  \@title};
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./defs.tex:74: Undefined control sequence.
+l.74 ...{\color{white}\headingfont\bfseries\huge\@
+                                                  title};
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[1] )
+(\end occurred inside a group at level 4)
+
+### simple group (level 4) entered at line 66 ({)
+### simple group (level 3) entered at line 41 ({)
+### simple group (level 2) entered at line 40 ({)
+### simple group (level 1) entered at line 39 ({)
+### bottom level
+Output written on /Users/redevaaa/Digital-Clock/Requirement and Related Materials/template EE/.texpadtmp/defs.pdf (1 page).
