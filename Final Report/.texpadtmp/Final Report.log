@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.1.1)  14 JAN 2018 23:09
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.1.1)  15 JAN 2018 16:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1469,35 +1469,35 @@ Package: CJKfntef 2015/04/18 4.8.4
 . Redefining environment 'CJKfilltwosides' with sig. 'O{c}m' on line 1016.
 .................................................
 \c__xeCJK_filll_skip=\skip140
-) (/Users/jackie/Documents/Digital-Clock/FINAL-REP/.texpadtmp/Final Report.aux)
+) (/Users/jackie/Documents/Digital-Clock/Final Report/.texpadtmp/Final Report.aux)
 \openout1 = `"Final Report.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 27.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 27.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 28.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 28.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Try loading font information for TU+ppl on input line 27.
-LaTeX Font Info:    No file TUppl.fd. on input line 27.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Try loading font information for TU+ppl on input line 28.
+LaTeX Font Info:    No file TUppl.fd. on input line 28.
 
 
 LaTeX Font Warning: Font shape `TU/ppl/m/n' undefined
-(Font)              using `TU/lmr/m/n' instead on input line 27.
+(Font)              using `TU/lmr/m/n' instead on input line 28.
 
 \AtBeginShipoutBox=\box79
 *** you should *not* be loading the inputenc package
@@ -1544,13 +1544,13 @@ Package caption Info: End \AtBeginDocument code.
 \big@size=\dimen312
 
 LaTeX Font Warning: Font shape `TU/Lato-Black.ttf(0)/bx/n' undefined
-(Font)              using `TU/Lato-Black.ttf(0)/m/n' instead on input line 28.
+(Font)              using `TU/Lato-Black.ttf(0)/m/n' instead on input line 29.
 
 File: opening.jpg Graphic file (type QTm)
 <use  "opening.jpg" >
 
 LaTeX Font Warning: Font shape `TU/ppl/bx/n' undefined
-(Font)              using `TU/ppl/m/n' instead on input line 28.
+(Font)              using `TU/ppl/m/n' instead on input line 29.
 
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -1561,7 +1561,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
 File: logo.png Graphic file (type QTm)
 <use  "logo.png" > [1
 
-] (/Users/jackie/Documents/Digital-Clock/FINAL-REP/.texpadtmp/Final Report.toc
+] (/Users/jackie/Documents/Digital-Clock/Final Report/.texpadtmp/Final Report.toc
 LaTeX Font Info:    Try loading font information for OT1+ppl on input line 4.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
@@ -1612,7 +1612,7 @@ File: logo.png Graphic file (type QTm)
 ]
 File: 555.png Graphic file (type QTm)
  <use  "555.png" >
-Overfull \hbox (13.78381pt too wide) in paragraph at lines 66--69
+Overfull \hbox (13.78381pt too wide) in paragraph at lines 67--70
 [] 
  []
 
@@ -1624,7 +1624,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
 
 File: logo.png Graphic file (type QTm)
 <use  "logo.png" > [4]
-Underfull \hbox (badness 10000) in paragraph at lines 71--73
+Underfull \hbox (badness 10000) in paragraph at lines 72--74
 
  []
 
@@ -1646,7 +1646,7 @@ File: logo.png Graphic file (type QTm)
 <use  "logo.png" > [6
 
 ]
-Overfull \hbox (10.35391pt too wide) in paragraph at lines 163--170
+Overfull \hbox (10.35391pt too wide) in paragraph at lines 164--171
 []
  []
 
@@ -1657,7 +1657,7 @@ File: Input.png Graphic file (type QTm)
  <use  "Input.png" >
 File: Basic.png Graphic file (type QTm)
  <use  "Basic.png" >
-Overfull \hbox (53.10356pt too wide) in paragraph at lines 177--178
+Overfull \hbox (53.10356pt too wide) in paragraph at lines 178--179
 [] 
  []
 
@@ -1677,7 +1677,7 @@ File: logo.png Graphic file (type QTm)
 ]
 File: Alarm.png Graphic file (type QTm)
  <use  "Alarm.png" >
-Overfull \hbox (31.40552pt too wide) in paragraph at lines 190--191
+Overfull \hbox (31.40552pt too wide) in paragraph at lines 191--192
 [] 
  []
 
@@ -1691,23 +1691,23 @@ File: logo.png Graphic file (type QTm)
 <use  "logo.png" > [9]
 File: Simulation.png Graphic file (type QTm)
  <use  "Simulation.png" >
-Overfull \hbox (49.54709pt too wide) in paragraph at lines 195--196
+Overfull \hbox (49.54709pt too wide) in paragraph at lines 196--197
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 195--196
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 198--199
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
 
  []
 
 File: Achievement.png Graphic file (type QTm)
 <use  "Achievement.png" >
-Underfull \hbox (badness 10000) in paragraph at lines 202--204
+Underfull \hbox (badness 10000) in paragraph at lines 203--205
 
  []
 
@@ -1743,7 +1743,7 @@ File: logo.png Graphic file (type QTm)
 <use  "logo.png" > [12
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 225--231
+Underfull \hbox (badness 10000) in paragraph at lines 226--232
 
  []
 
@@ -1755,7 +1755,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
 
 File: logo.png Graphic file (type QTm)
 <use  "logo.png" > [13]
-Underfull \hbox (badness 10000) in paragraph at lines 232--236
+Underfull \hbox (badness 10000) in paragraph at lines 233--237
 
  []
 
@@ -1774,18 +1774,18 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 File: logo.png Graphic file (type QTm)
-<use  "logo.png" > [15] (/Users/jackie/Documents/Digital-Clock/FINAL-REP/.texpadtmp/Final Report.aux)
+<use  "logo.png" > [15] (/Users/jackie/Documents/Digital-Clock/Final Report/.texpadtmp/Final Report.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
  34386 strings out of 493005
- 713335 string characters out of 6134597
- 855985 words of memory out of 5000000
+ 713362 string characters out of 6134597
+ 856047 words of memory out of 5000000
  37890 multiletter control sequences out of 15000+600000
  12583 words of font info for 52 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  57i,15n,73p,10421b,641s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on /Users/jackie/Documents/Digital-Clock/FINAL-REP/.texpadtmp/Final Report.pdf (15 pages).
+Output written on /Users/jackie/Documents/Digital-Clock/Final Report/.texpadtmp/Final Report.pdf (15 pages).
